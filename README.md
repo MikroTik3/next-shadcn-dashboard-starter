@@ -55,7 +55,7 @@ _Deploy your own copy with one click._
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/MikroTik2/next-shadcn-dashboard-starter.git
+   git clone https://github.com/MikroTik3/next-shadcn-dashboard-starter.git
    ```
    
 2. **Navigate into the project**
