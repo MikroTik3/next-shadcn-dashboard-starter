@@ -2,7 +2,7 @@
 
 Admin Panel - features multiple dashboards, authentication layouts, customizable theme presets, and more.
 
-<img src="https://github.com/MikroTik2/next-shadcn-dashboard-starter/blob/master/public/opengraph.png?version=5" alt="Opengraph Screenshot">
+<img src="https://github.com/MikroTik3/next-shadcn-dashboard-starter/blob/master/public/opengraph.png?version=5" alt="Opengraph Screenshot">
 
 Most admin templates I came across-whether free or paid-felt bloated, outdated, or overly restrictive. I created this as a cleaner, more flexible alternative, adding features that are often missing, like theme switching and layout customization, while maintaining a modern and minimal design.
 
