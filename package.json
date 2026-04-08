@@ -12,8 +12,7 @@
 		"build": "next build",
 		"start": "next start",
 		"lint": "eslint",
-		"format": "prettier --write \"**/*.{ts,tsx,json}\"",
-		"prepare": "husky"
+		"format": "prettier --write \"**/*.{ts,tsx,json}\""
 	},
 	"dependencies": {
 		"@dnd-kit/modifiers": "^9.0.0",
